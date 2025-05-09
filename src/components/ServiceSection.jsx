@@ -3,7 +3,7 @@ import featureTwo from "../assets/features/feature-2.png";
 import CirclePurpleTickSVG from "./svg/icon/CirclePurpleTickSVG";
 import RightArrowSVG from "./svg/icon/RightArrowSVG";
 import ServerSVG from "./svg/icon/ServerSVG";
-import MultiUserSVG from "./svg/icon/MultiUserSVG.JSX";
+import MultiUserSVG from "./svg/icon/MultiUserSVG";
 import WorldMapSVG from "./svg/icon/WorldMapSVG";
 import CartSVG from "./svg/icon/CartSVG";
 
